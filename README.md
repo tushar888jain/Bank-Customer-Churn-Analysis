@@ -45,3 +45,5 @@ Measures (churn rate, averages) and segment columns (age bands, activity status)
 ## Dataset
 
 10,000 customer records including credit score, geography, gender, age, tenure, balance, number of products, card status, activity status, and churn flag.
+<img width="950" height="471" alt="Screenshot 2026-07-04 010601" src="https://github.com/user-attachments/assets/af2bb565-1c21-495e-943c-3518f2ceecac" />
+
